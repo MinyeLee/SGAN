@@ -1,7 +1,4 @@
-<a
-href="https://colab.research.google.com/github/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_4_gan_semi_supervised.ipynb"
-target="_parent"><img src="https://colab.research.google.com/assets/colab-
-badge.svg" alt="Open In Colab"/></a>
+
 
 # GANS for Semi-Supervised Training
 
@@ -14,7 +11,7 @@ Truth 가 없기 때문이다. 준지도 학습기법이란 소수의 데이터�
 
 **Figure 11.TTYPE: Supervised, UnSupervised and Semi-Supervised**
 ![GAN](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/images/gan-
-training.png "GAN")
+training.png)
 
 
 
