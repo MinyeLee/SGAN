@@ -10,8 +10,7 @@ Truth 가 없기 때문이다. 준지도 학습기법이란 소수의 데이터�
 
 
 **Figure 11.TTYPE: Supervised, UnSupervised and Semi-Supervised**
-![GAN](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/images/gan-
-training.png)
+![GAN](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/images/gan-training.png)
 
 
 
@@ -26,8 +25,7 @@ Figure 2 는 SGAN 이 분류목적을 어떻게 수행하는 지를 보여줍니
 
 **Figure 2.GAN-SEMI: GAN for Semisupervised Training**
 ![GAN for Semisupervised
-Training](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/images/gan-
-semi-class.png "GAN for Semisupervised Training")
+Training](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/images/gan-semi-class.png "GAN for Semisupervised Training")
 
 ```python
 # example of semi-supervised gan for mnist
